@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://conformio-app.vivifyideas.com/preonboarding/language",
+    "env": {
+        "apiUrl":"https://conformio-api.vivifyideas.com/api"
+    }
+}
