@@ -2,5 +2,29 @@
   "firstName": "Cypress",
   "lastName": "Automated",
   "fullName": "Cypress Automated",
-  "password": "test1234"
+  "password": "test1234",
+  "selector" :{
+    "language":".cf-c-select-native__field",
+    "submit":"[type=submit]",
+    "heading1":"h1",
+    "heading2":"h2",
+    "heading3":"h3",
+    "heading4":"h4",
+    "heading5":"h5",
+    "heading6":"h6",
+    "email":".cf-c-input__field",
+    "firstName":".cf-c-input__field",
+    "lastName":".cf-c-input__field",
+    "password":".cf-c-input__field",
+    "passwordConfirmation": ".cf-c-input__field",
+    "companyName": ".cf-c-input__field",
+    "loginEmail": "[type=email]",
+    "loginPassword": "[type=password]",
+    "btnNext":".cf-c-btn",
+    "btnFinish":".cf-c-btn",    
+    "country":".cf-c-select-native__field", 
+    "userEmail":".cf-c-input__field",
+    "jobTitle":".vs__search",
+    "userName":".cf-c-header-dropdown__label-text"    
+  }
 }
