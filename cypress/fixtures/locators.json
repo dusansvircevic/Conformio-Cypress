@@ -1,0 +1,37 @@
+{
+  "REGISTRATION" :{
+    "WELCOME":"h1",
+    "INITIALSETUP":"h2",
+    "TITLE":"h4",
+    "LANGUAGE":".cf-c-select-native__field",
+    "INPUTNAME":"h4",
+    "EMAIL":".cf-c-input__field",
+    "FIRSTNAME":".cf-c-input__field",
+    "LASTNAME":".cf-c-input__field",
+    "PASSWORD":".cf-c-input__field",
+    "COMPANY": ".cf-c-input__field",
+    "SUBMIT":"[type=submit]",
+    "LOGIN":"h3",
+    "ERROR":".cf-c-input__error"
+  },
+
+  "LOGIN": {
+    "TITLE":"h3",
+    "EMAIL":"[type=email]",
+    "PASSWORD":"[type=password]",
+    "SUBMIT":"[type=submit]",
+    "USERNAME":".cf-c-header-dropdown__label-text",
+    "ALERT":".alert-danger"
+  },
+
+  "ONBOARDING":{
+    "TITLE":"h2",
+    "BUTTONNEXT":".cf-c-btn",
+    "BUTTONFINISH":".cf-c-btn",
+    "USERNAME":".cf-c-header-dropdown__label-text",
+    "COUNTRY":".cf-c-select-native__field", 
+    "USEREMAIL":".cf-c-input__field",
+    "JOBTITLE":".vs__search"
+  }
+  
+}
